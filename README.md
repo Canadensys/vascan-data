@@ -10,5 +10,5 @@ Limitations:
  * Original creation date was retained in text only. The date displayed by GitHub correspond to the date/time the script was run.
 
 All issues imported from Google Code contain a mention similar to `[Originally posted on GoogleCode (id 1134) on 2012-02-20]` 
-indicating they were originaly on Google Code and were posted on the mentioned date. In case a GitHub user was used to create an issue for another Google Code user, the mention will look like `[Originally posted on GoogleCode (id 1954) on 2013-11-22 by john.doe]`.
+indicating they were originally on Google Code and were posted on the mentioned date. In case a GitHub user was used to create an issue for another Google Code user, the mention will look like `[Originally posted on GoogleCode (id 1954) on 2013-11-22 by john.doe]`.
 
