@@ -2,7 +2,7 @@
 
 
 ## Migration from GoogleCode
-Since April 10th 2015, VASCAN data issues are managed in this GitHub repository. All issues created prior to that date were moved using an [in-house script](https://github.com/Canadensys/vascan-data-googlecode-to-github).
+Since April 10, 2015 VASCAN data issues are managed in this GitHub repository. All issues created prior to that date were moved using an [in-house script](https://github.com/Canadensys/vascan-data-googlecode-to-github).
 
 Limitations:
  * Ownership was only retained for users with more than 10 issues
