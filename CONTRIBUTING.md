@@ -7,15 +7,13 @@
 1. Provide an authoritative source.
 
 ## Example of data issue
+**Title**: Authority of synonym Populus balsamifera var. michauxii
+```
+Populus balsamifera var. michauxii (Dode) Henry should be Populus balsamifera var. michauxii (Dode) A.Henry
 
-> **Title**: Authority of synonym Populus balsamifera var. michauxii
+Vascan URL:
+http://data.canadensys.net/vascan/taxon/9044
 
-> Populus balsamifera var. michauxii (Dode) Henry should be Populus balsamifera var. michauxii (Dode) A.Henry
-
-> Vascan URL:
-
-> http://data.canadensys.net/vascan/taxon/9044
-
-> Authoritative source:
-
-> IPNI, Auguste Henry is the author
+Authoritative source:
+IPNI, Auguste Henry is the author
+```
