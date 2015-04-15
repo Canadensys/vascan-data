@@ -6,7 +6,7 @@
 1. Specify incorrect or missing data and what is expected.
 1. Provide an authoritative source.
 
-## Example of data issue
+## Example data issue
 **Title**: Authority of synonym Populus balsamifera var. michauxii
 ```
 Populus balsamifera var. michauxii (Dode) Henry should be Populus balsamifera var. michauxii (Dode) A.Henry
