@@ -20,3 +20,5 @@ http://data.canadensys.net/vascan/taxon/9044
 Authoritative source:
 IPNI, Auguste Henry is the author
 ```
+
+Remember all issues submitted on GitHub are public.
